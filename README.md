@@ -17,7 +17,7 @@
 <div align="center">
 
  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
+"Growing as a developer by learning JavaScript, React, while honing data-structures and algorithm skills using C,C++ and Java."
 
 </div>  
 **java script**
