@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=297&text=Sathya%20Narayanan%20P&section=header&reversal=true&desc=JAVA-DOC%20|%20FULL%2-STACK%20|%20PROBLEM%20SOLVING&fontAlign=51&fontAlignY=39" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Master+Application+Developer;Object+Oriented+Programming+Mastery" alt="Typing SVG" /></a>
 
 </div>
 
