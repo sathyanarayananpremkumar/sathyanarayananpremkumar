@@ -147,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyanarayananpremkumar&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
 
 </div>
 
