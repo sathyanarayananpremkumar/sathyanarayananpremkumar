@@ -16,6 +16,7 @@
 
 <div align="center">
 
+
  
 "Growing as a developer by learning JavaScript, React, while honing data-structures and algorithm skills using C,C++ and Java."
 
