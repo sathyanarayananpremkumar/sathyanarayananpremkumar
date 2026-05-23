@@ -50,6 +50,7 @@
 
 
 
+
 ##  Technical Skills  
 
 <table align="center" width="100%">
