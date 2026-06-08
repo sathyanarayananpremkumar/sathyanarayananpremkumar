@@ -75,43 +75,17 @@
     <th>Link</th>
   </tr>
 
-  <tr>
-    <td></td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
 
   <tr>
-    <td></td>
+    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
     <td>
+      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
     </td>
     <td>
+      Java • Maven • 
     </td>
     <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b></b><br><i></i></td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>
-    </td>
-    <td>   
-    </td>
-    <td>
+      ------>sooon<------
     </td>
   </tr>
 </table>
