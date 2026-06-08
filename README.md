@@ -85,7 +85,7 @@
       Java • Maven • 
     </td>
     <td>
-      ------>sooon<------
+      sooon
     </td>
   </tr>
 </table>
